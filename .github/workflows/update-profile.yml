@@ -1,0 +1,58 @@
+name: Update Profile & Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # every 12 hours
+  workflow_dispatch:
+
+jobs:
+  update_profile:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+      # Для profile-readme-stats и waka-readme-stats требуются права на чтение профиля
+      # и репозиториев для получения статистики
+      statuses: write
+      checks: write
+      # Для доступа к пользовательским данным
+      pull-requests: read
+      issues: read
+      repository-projects: read
+
+    steps:
+      # 1. Checkout
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # 2. Generate Contribution Snake
+      - name: Generate Contribution Snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ekwator
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+
+      # 3. Generate README with Stats (using GitHub Readme Stats service)
+      - name: Update GitHub Stats
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ekwator
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Yekaterinburg
+
+      # 4. Update WakaTime metrics - SKIPPED due to API access issues
+
+      # 5. Commit and Push changes
+      - name: Commit and Push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "chore: update profile README & snake SVGs"
+          add: "README.md,dist/,TEMPLATE.md"
+          author_name: "github-actions[bot]"
+          author_email: "41898282+github-actions[bot]@users.noreply.github.com"
