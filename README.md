@@ -64,6 +64,9 @@
 
 ---
 
-## 🧪 Dev Metrics (WakaTime)  
+## 🧪 Dev Metrics (WakaTime)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+## 📊 GitHub Metrics
+![Metrics](github-metrics.svg)
