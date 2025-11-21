@@ -1,5 +1,5 @@
 <!-- Header + "typing" animation -->
-<h1 align="center">Hi, I'm **ekwator** 👋</h1>
+<h1 align="center">Hi, I'm <strong>ekwator</strong> 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFAB&center=true&vCenter=true&width=600&lines=Open-Source+Developer;Always+Learning;AI+&+Web+Innovator" alt="Typing SVG" />
 </p>
