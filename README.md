@@ -68,5 +68,48 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<!-- TODO: animated button assets repo missing -->
+## ☕ Support & Cursor AI Subscription Help
+
+<details>
+  <summary><b>🔧 Need Help with Cursor AI Subscription? (click to expand)</b></summary>
+
+> Access to Cursor AI Pro is important for this project's development.
+> In some regions direct payment is unavailable — so alternative, safe payment
+> methods and team seat sharing become very helpful.
+
+### 🧩 Group Subscription (Cursor Team / Seats)
+If you have a **team subscription** with free seats — please consider adding me.
+This would greatly support continued development. 🙏
+No account sharing is required; adding a seat is fully safe and official.
+
+### 🚀 Verified Payment Methods
+I maintain a public guide with safe, tested services that help users activate Cursor Pro without account sharing:
+
+[![Get Help Button](https://raw.githubusercontent.com/ekwator/assets/main/animated-buttons/cursor-help-button.svg)](https://github.com/ekwator/cursor-payment-guide)
+
+</details>
+
+---
+
+<details>
+  <summary><b>☕ Donate / Support the Project (click to expand)</b></summary>
+
+You can support me and the development of this project via Boosty:
+
+[![Support me](https://raw.githubusercontent.com/ekwator/assets/main/animated-buttons/support-me-coffee.svg)](https://boosty.to/ekwator)
+
+</details>
+
+---
+
+### 🏷️ Badges & Live Elements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cursor%20AI-Support-blue?logo=cursor" alt="Cursor Support Badge" />
+  <img src="https://img.shields.io/badge/Support%20Project-Boosty-orange?logo=buymeacoffee" alt="Boosty Donate Badge" />
+  <img src="https://img.shields.io/badge/Team%20Seats-Welcome-green?logo=github" alt="Team Seats Badge" />
+</p>
+
 ## 📊 GitHub Metrics
 ![Metrics](github-metrics.svg)
