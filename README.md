@@ -87,7 +87,7 @@ Adding a seat is safe and fully official — **no account sharing required**.
 ### 🚀 Verified Payment Methods
 Safe, tested services that help users activate Cursor Pro:
 
-[![Cursor Help](https://img.shields.io/badge/Need%20Help%20with%20Cursor%3F-Click%20Here-blue?style=for-the-badge&logo=cursor)](https://github.com/ekwator/cursor-payment-guide)
+[![Cursor Help](https://img.shields.io/badge/Need%20Help%20with%20Cursor%3F-Click%20Here-blue?style=for-the-badge&logo=cursor)](https://github.com/ekwator/ekwator/blob/main/cursor-payment-guide.md)
 
 </details>
 
