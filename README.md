@@ -1,61 +1,110 @@
-# Cursor AI Payment Guide
+<!-- Header + "typing" animation -->
+<h1 align="center">Hi, I'm <strong>ekwator</strong> 👋</h1>
+<p align="center">
+  <img src="assets/typing-animation.svg" alt="Typing SVG" />
+</p>
 
-Welcome to the **Cursor AI Payment Guide**!  
-This guide is intended for users in regions where direct payment for **Cursor AI IDE** may not be possible. It provides **safe, tested alternative methods** for accessing a Pro subscription.
+---
+
+## 🔭 About Me  
+- Open-source developer exploring the possibilities of AI and automation  
+- Contributed to projects: training systems (truth-training), JS variable testers (js-variable-tester), geometry/mathematics (Polytope), CMS (GotCms)  
+- Passionate about data structures, clean code, and architectural solutions  
 
 ---
 
-## ⚡ Alternative Payment Methods
-
-> You can use the following services to safely pay for Cursor AI IDE without sharing personal accounts:
-
-### 1. Boosty
-- URL: [https://boosty.to/ekwator](https://boosty.to/ekwator)
-- Safe, official payment platform
-- Supports multiple payment methods
-- Allows supporting developers while activating Cursor AI Pro
-
-### 2. Team / Group Seats
-- If you have access to a **team subscription** with extra seats:
-  - You can add me (ekwator) as a seat
-  - No account sharing required
-  - Fully safe and official
-
-### 3. Other Verified Services
-- Include instructions for services like Oplatym.ru or other legal alternatives
-- Always avoid sharing passwords directly
+## 🧰 Tech Stack  
+<p align="center">  
+  <img src="assets/tech-icons.svg" alt="Technologies" />
+</p>
 
 ---
+
+## 📂 My Projects
+
+### **truth-training**  
+**Description:** Core engine for Truth Training: Rust backend with Actix-web, SQLite, and P2P sync (UDP + HTTP).  
+**Tech:** Rust, Actix-web, SQLite, P2P (UDP + HTTP)  
+**Status:** Active development  
+[Go to repository](https://github.com/ekwator/truth-training)
+
+### **Polytope**  
+**Description:** Mathematical project focused on geometry of multidimensional polygons and pathfinding algorithms.  
+**Tech:** Shell, computational geometry algorithms  
+**Status:** Active  
+[Go to repository](https://github.com/ekwator/Polytope)
+
+### **js-variable-tester**  
+**Description:** JavaScript utility for testing variables, checking types and values.  
+**Tech:** JavaScript  
+**Use cases:** Validation, debugging, variable testing  
+**Status:** Stable  
+[Go to repository](https://github.com/ekwator/js-variable-tester)
+
+### **GotCms**  
+**Description:** CMS system based on Zend Framework 2 with PostgreSQL and MySQL support.  
+**My contribution:** Contributions to the repository  
+**Status:** Archived (legacy)  
+[Go to repository](https://github.com/GotCms)
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">  
+  <img src="assets/github-stats.svg" alt="GitHub stats" />
+</p>  
+<p align="center">  
+  <img src="assets/top-langs.svg" alt="Top Languages" />
+</p>  
+<p align="center">  
+  <img src="assets/streak-stats.svg" alt="GitHub Streak" />
+</p>
+
+
+
+---
+
+## 🧪 Dev Metrics (WakaTime)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## ☕ Support & Cursor AI Subscription Help
 
 <details>
-  <summary>🔧 Group Subscription / Team Seats (click to expand)</summary>
+  <summary><b>🔧 Need Help with Cursor AI Subscription? (click to expand)</b></summary>
 
-If you have a **team plan** with free seats for Cursor AI:  
+> Access to Cursor AI Pro is important for this project's development.
+> In some regions direct payment is unavailable — so alternative, safe payment
+> methods and team seat sharing become very helpful.
 
-1. Open your subscription management on Cursor AI  
-2. Add me (ekwator) to a free seat  
-3. This helps development of open-source projects without risk  
+### 🧩 Group Subscription (Cursor Team / Seats)
+If you have a **team subscription** with free seats — please consider adding me.
+This would greatly support continued development. 🙏  
+Adding a seat is safe and fully official — **no account sharing required**.
+
+### 🚀 Verified Payment Methods
+Safe, tested services that help users activate Cursor Pro:
+
+[![Cursor Help](https://img.shields.io/badge/Need%20Help%20with%20Cursor%3F-Click%20Here-blue?style=for-the-badge&logo=cursor)](https://github.com/ekwator/cursor-payment-guide)
 
 </details>
 
 ---
 
 <details>
-  <summary>☕ Support & Donations (click to expand)</summary>
+  <summary><b>☕ Donate / Support the Project (click to expand)</b></summary>
 
-Support development by donating via **Boosty**:  
+You can support me and the development of this project via **Boosty**:
 
-[![Support me](https://raw.githubusercontent.com/ekwator/assets/main/animated-buttons/support-me-coffee.svg)](https://boosty.to/ekwator)
-
-- Fully safe  
-- Helps maintain ongoing open-source work  
-- Works in regions with restricted direct payments  
+[![Boosty Support](https://img.shields.io/badge/Support%20on-Boosty-orange?style=for-the-badge&logo=boosty)](https://boosty.to/ekwator)
 
 </details>
 
 ---
 
-## 🏷️ Badges & Live Elements
+### 🏷️ Badges & Live Elements
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cursor%20AI-Support-blue?logo=cursor" alt="Cursor Support Badge" />
@@ -63,9 +112,5 @@ Support development by donating via **Boosty**:
   <img src="https://img.shields.io/badge/Team%20Seats-Welcome-green?logo=github" alt="Team Seats Badge" />
 </p>
 
----
-
-## ⚠️ Notes
-- Do **not** share passwords directly  
-- Use only trusted, verified payment methods  
-- Team seat addition is the safest method in restricted regions
+## 📊 GitHub Metrics
+![Metrics](github-metrics.svg)
