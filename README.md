@@ -87,7 +87,7 @@ Adding a seat is safe and fully official — **no account sharing required**.
 ### 🚀 Verified Payment Methods
 Safe, tested services that help users activate Cursor Pro:
 
-[![Cursor Help](https://img.shields.io/badge/Need%20Help%20with%20Cursor%3F-Click%20Here-blue?style=for-the-badge&logo=cursor)](https://github.com/ekwator/ekwator/blob/main/cursor-payment-guide.md)
+[![Cursor Help](assets/badges/cursor-help-badge.svg)](https://github.com/ekwator/ekwator/blob/main/cursor-payment-guide.md)
 
 </details>
 
@@ -98,7 +98,7 @@ Safe, tested services that help users activate Cursor Pro:
 
 You can support me and the development of this project via **Boosty**:
 
-[![Boosty Support](https://img.shields.io/badge/Support%20on-Boosty-orange?style=for-the-badge&logo=boosty)](https://boosty.to/ekwator)
+[![Boosty Support](assets/badges/boosty-support-badge.svg)](https://boosty.to/ekwator)
 
 </details>
 
@@ -107,9 +107,9 @@ You can support me and the development of this project via **Boosty**:
 ### 🏷️ Badges & Live Elements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cursor%20AI-Support-blue?logo=cursor" alt="Cursor Support Badge" />
-  <img src="https://img.shields.io/badge/Support%20Project-Boosty-orange?logo=buymeacoffee" alt="Boosty Donate Badge" />
-  <img src="https://img.shields.io/badge/Team%20Seats-Welcome-green?logo=github" alt="Team Seats Badge" />
+  <img src="assets/badges/cursor-ai-support-badge.svg" alt="Cursor Support Badge" />
+  <img src="assets/badges/support-project-badge.svg" alt="Boosty Donate Badge" />
+  <img src="assets/badges/team-seats-badge.svg" alt="Team Seats Badge" />
 </p>
 
 ## 📊 GitHub Metrics

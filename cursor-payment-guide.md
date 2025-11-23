@@ -45,7 +45,7 @@ If you have a **team plan** with free seats for Cursor AI:
 
 Support development by donating via **Boosty**:  
 
-[![Support me](https://raw.githubusercontent.com/ekwator/assets/main/animated-buttons/support-me-coffee.svg)](https://boosty.to/ekwator)
+[![Support me](assets/badges/support-me-coffee.svg)](https://boosty.to/ekwator)
 
 - Fully safe  
 - Helps maintain ongoing open-source work  
