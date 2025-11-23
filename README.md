@@ -1,7 +1,7 @@
 <!-- Header + "typing" animation -->
 <h1 align="center">Hi, I'm <strong>ekwator</strong> 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFAB&center=true&vCenter=true&width=600&lines=Open-Source+Developer;Always+Learning;AI+&+Web+Innovator" alt="Typing SVG" />
+  <img src="assets/typing-animation.svg" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,7 +15,7 @@
 
 ## 🧰 Tech Stack  
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,html,css,rust,php,docker,githubactions,mysql,postgresql" alt="Technologies" />  
+  <img src="assets/tech-icons.svg" alt="Technologies" />
 </p>
 
 ---
@@ -51,13 +51,13 @@
 
 ## 📊 GitHub Stats  
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=ekwator&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub stats" />  
+  <img src="assets/github-stats.svg" alt="GitHub stats" />
 </p>  
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekwator&layout=donut&theme=dracula&langs_count=8" alt="Top Languages" />  
+  <img src="assets/top-langs.svg" alt="Top Languages" />
 </p>  
 <p align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekwator&theme=dracula" alt="GitHub Streak" />  
+  <img src="assets/streak-stats.svg" alt="GitHub Streak" />
 </p>
 
 
@@ -67,6 +67,50 @@
 ## 🧪 Dev Metrics (WakaTime)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+---
+
+## ☕ Support & Cursor AI Subscription Help
+
+<details>
+  <summary><b>🔧 Need Help with Cursor AI Subscription? (click to expand)</b></summary>
+
+> Access to Cursor AI Pro is important for this project's development.
+> In some regions direct payment is unavailable — so alternative, safe payment
+> methods and team seat sharing become very helpful.
+
+### 🧩 Group Subscription (Cursor Team / Seats)
+If you have a **team subscription** with free seats — please consider adding me.
+This would greatly support continued development. 🙏  
+Adding a seat is safe and fully official — **no account sharing required**.
+
+### 🚀 Verified Payment Methods
+Safe, tested services that help users activate Cursor Pro:
+
+[![Cursor Help](https://img.shields.io/badge/Need%20Help%20with%20Cursor%3F-Click%20Here-blue?style=for-the-badge&logo=cursor)](https://github.com/ekwator/cursor-payment-guide)
+
+</details>
+
+---
+
+<details>
+  <summary><b>☕ Donate / Support the Project (click to expand)</b></summary>
+
+You can support me and the development of this project via **Boosty**:
+
+[![Boosty Support](https://img.shields.io/badge/Support%20on-Boosty-orange?style=for-the-badge&logo=boosty)](https://boosty.to/ekwator)
+
+</details>
+
+---
+
+### 🏷️ Badges & Live Elements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cursor%20AI-Support-blue?logo=cursor" alt="Cursor Support Badge" />
+  <img src="https://img.shields.io/badge/Support%20Project-Boosty-orange?logo=buymeacoffee" alt="Boosty Donate Badge" />
+  <img src="https://img.shields.io/badge/Team%20Seats-Welcome-green?logo=github" alt="Team Seats Badge" />
+</p>
 
 ## 📊 GitHub Metrics
 ![Metrics](github-metrics.svg)
