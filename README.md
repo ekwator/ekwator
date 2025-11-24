@@ -12,7 +12,9 @@
 - Passionate about data structures, clean code, and architectural solutions
 
 ### ☕ Support the Project
+<p align="center">
 You can support me and the development of this project via **Boosty**:
+</p>
 
 <p align="center">
   <a href="https://boosty.to/ekwator">
@@ -95,7 +97,9 @@ Safe, tested services that help users activate Cursor Pro:
 ---
 
 ## 📊 GitHub Metrics
+<p align="center">
 ![Metrics](github-metrics.svg)
+</p>
 
 ---
 
