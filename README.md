@@ -6,10 +6,19 @@
 
 ---
 
-## 🔭 About Me  
-- Open-source developer exploring the possibilities of AI and automation  
-- Contributed to projects: training systems (truth-training), JS variable testers (js-variable-tester), geometry/mathematics (Polytope), CMS (GotCms)  
-- Passionate about data structures, clean code, and architectural solutions  
+## 🔭 About Me
+- Open-source developer exploring the possibilities of AI and automation
+- Contributed to projects: training systems (truth-training), JS variable testers (js-variable-tester), geometry/mathematics (Polytope), CMS (GotCms)
+- Passionate about data structures, clean code, and architectural solutions
+
+### ☕ Support the Project
+You can support me and the development of this project via **Boosty**:
+
+<p align="center">
+  <a href="https://boosty.to/ekwator">
+    <img src="assets/badges/boosty-support-badge-animated.svg" alt="Boosty Support">
+  </a>
+</p>
 
 ---
 
@@ -49,28 +58,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=ekwator&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub stats" />  
-</p>  
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekwator&layout=donut&theme=dracula&langs_count=8" alt="Top Languages" />  
-</p>  
-<p align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekwator&theme=dracula" alt="GitHub Streak" />  
-</p>
-
-
-
-
----
-
-## 🧪 Dev Metrics (WakaTime)
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 ## ☕ Support & Cursor AI Subscription Help
 
 <details>
@@ -94,14 +81,27 @@ Safe, tested services that help users activate Cursor Pro:
 
 ---
 
-<details>
-  <summary><b>☕ Donate / Support the Project (click to expand)</b></summary>
+## 📊 GitHub Stats  
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=ekwator&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub stats" />  
+</p>  
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekwator&layout=donut&theme=dracula&langs_count=8" alt="Top Languages" />  
+</p>  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekwator&theme=dracula" alt="GitHub Streak" />
+</p>
 
-You can support me and the development of this project via **Boosty**:
+---
 
-[![Boosty Support](assets/badges/boosty-support-badge.svg)](https://boosty.to/ekwator)
+## 📊 GitHub Metrics
+![Metrics](github-metrics.svg)
 
-</details>
+---
+
+## 🧪 Dev Metrics (WakaTime)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
@@ -113,5 +113,31 @@ You can support me and the development of this project via **Boosty**:
   <img src="assets/badges/team-seats-badge.svg" alt="Team Seats Badge" />
 </p>
 
-## 📊 GitHub Metrics
-![Metrics](github-metrics.svg)
+<details>
+<summary>🧠 SEO Metadata</summary>
+
+JavaScript, JS utilities, data validation, type checking, Jest tests, Node.js tools, TypeScript helper libraries, 
+Rust backend, Actix-web, SQLite, P2P sync, UDP networking, HTTP sync engine, distributed systems, 
+AI tools, Cursor AI, automation tools, AI-assisted development, workflow automation, 
+Geometry, multidimensional geometry, 4D geometry, tesseract visualization, polytopes, Polytope project, 
+Shell scripting, Bash scripts, Linux tools, Xfce environment, Ubuntu 24.04 utilities,
+SQL, PostgreSQL, MySQL, database optimization,
+Web development, HTML, CSS, React, frontend utilities, GitHub Actions CI, repository automation,
+Open-source projects, developer tools, system architecture, algorithmic design, clean code.
+
+</details>
+
+<!--
+======================
+ Hidden GitHub SEO Keywords
+ These keywords are indexed by GitHub but invisible to users.
+======================
+-->
+
+<!--
+seo: ai, artificial-intelligence, llm, cursor-ai, cursor-ide, automation, agents, devtools,
+javascript, bash, sql, web-development, polytope, geometry, multidimensional, visualizer,
+open-source, productivity-tools, backend, frontend, cli, nodejs, typescript, ubuntu, linux,
+github-actions, neural-networks, activation-function, distributed-systems, hybrid-ai,
+developer-tools, code-generation, embeddings, autonomy, openai, 4d, tesseract, math
+-->
