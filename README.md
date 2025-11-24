@@ -13,7 +13,7 @@
 
 ### ☕ Support the Project
 <p align="center">
-You can support me and the development of this project via **Boosty**:
+You can support me and the development of this project via <strong>Boosty</strong>:
 </p>
 
 <p align="center">
@@ -98,7 +98,7 @@ Safe, tested services that help users activate Cursor Pro:
 
 ## 📊 GitHub Metrics
 <p align="center">
-![Metrics](github-metrics.svg)
+<img src="github-metrics.svg" alt="Metrics" />
 </p>
 
 ---
