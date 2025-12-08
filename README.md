@@ -36,13 +36,13 @@ You can support me and the development of this project via <strong>Boosty</stron
 ### **truth-training**  
 **Description:** About Cross-platform project: Collective Intelligence as a Neural System of Society: Each participant acts as a neuron — transmitting, receiving, and adapting — while the network learns through feedback.  
 **Tech:** Rust Core, Actix-web, SQLite, P2P sync (UDP+HTTP), WebSockets, OpenAPI, TypeScript/React, Tauri, Kotlin/Android, Swift/iOS, Spec-Kit, Cursor AI IDE  
-**Status:** Active development  
+**Status:** Stable   
 [Go to repository](https://github.com/ekwator/truth-training)
 
 ### **Polytope**  
 **Description:** Mathematical project focused on geometry of multidimensional polygons and pathfinding algorithms.  
 **Tech:** Shell, computational geometry algorithms  
-**Status:** Active  
+**Status:** Stable  
 [Go to repository](https://github.com/ekwator/Polytope)
 
 ### **js-variable-tester**  
