@@ -91,8 +91,6 @@ Safe, tested services that help users activate Cursor Pro:
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ekwator&layout=donut&theme=dracula&langs_count=8" alt="Top Languages" />
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ekwator&theme=dracula)
-
 ---
 
 ## 📊 GitHub Metrics
