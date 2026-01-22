@@ -85,13 +85,14 @@ Safe, tested services that help users activate Cursor Pro:
 
 ## 📊 GitHub Stats  
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=ekwator&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub stats" />  
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ekwator&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub stats" />
 </p>  
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekwator&layout=donut&theme=dracula&langs_count=8" alt="Top Languages" />  
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ekwator&layout=donut&theme=dracula&langs_count=8" alt="Top Languages" />
 </p>  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekwator&theme=dracula" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ekwator&theme=dracula"
+       alt="GitHub Streak" />
 </p>
 
 ---
