@@ -37,6 +37,11 @@ You can support me and the development of this project via <strong>Boosty</stron
 **Description:** About Cross-platform project: Collective Intelligence as a Neural System of Society: Each participant acts as a neuron — transmitting, receiving, and adapting — while the network learns through feedback.  
 **Tech:** Rust Core, Actix-web, SQLite, P2P sync (UDP+HTTP), WebSockets, OpenAPI, TypeScript/React, Tauri, Kotlin/Android, Swift/iOS, Spec-Kit, Cursor AI IDE  
 **Status:** Idle (paused due to funding shortage)  
+**💬 Open Discussion**  
+We are actively discussing the core assumptions of this project here :  
+- 🧠 **What if human intelligence is fundamentally collective?**  
+  [Discussion](https://github.com/ekwator/truth-training/discussions/72)  
+  
 [Go to repository](https://github.com/ekwator/truth-training)
 
 ### **Polytope**  
