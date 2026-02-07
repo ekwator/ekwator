@@ -42,7 +42,14 @@ We are actively discussing the core assumptions of this project here :
 - 🧠 **What if human intelligence is fundamentally collective?**  
   [Discussion](https://github.com/ekwator/truth-training/discussions/72)  
   
-[Go to repository](https://github.com/ekwator/truth-training)
+- ⭐️ **I know how to solve the issues described in this observation**
+  [Recorded architectural observation](https://github.com/ekwator/truth-training/discussions/73)
+  **for the "Truth-Training" system and similar systems based on the core described in this repository**
+  [Go to repository](https://github.com/ekwator/truth-training)
+
+  **However, implementing the solution requires financial resources, as using free tools does not provide such capabilities. Additionally, I, like everyone else, need personal financial compensation.**
+
+  **But everyone can try to do this independently - all information about this project will remain publicly accessible**
 
 ### **Polytope**  
 **Description:** Mathematical project focused on geometry of multidimensional polygons and pathfinding algorithms.  
